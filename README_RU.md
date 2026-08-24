@@ -11,7 +11,7 @@
 | Проект | Что сделано | Результат |
 |---|---|---:|
 | [Кредитный скоринг](https://github.com/manaer6-alt/09_credit_scoring_competition/blob/main/README_RU.md) | Объединение нескольких таблиц, контроль утечек, Logistic Regression, CatBoost и ранговый ансамбль | **9-е место · ROC-AUC 0.8326** |
-| [Оценка стоимости автомобилей](https://github.com/manaer6-alt/08_shift_car_prices/blob/develop/README_RU.md) | OOF-валидация, текстовые признаки, целевые статистики и ансамбль моделей | **MAPE 12.66% на лидерборде** |
+| [Оценка стоимости автомобилей](https://github.com/manaer6-alt/08_shift_car_prices/blob/develop/README_RU.md) | OOF-валидация, текстовые признаки, целевые статистики и ансамбль моделей | **2-е место · MAPE 12.66% на лидерборде** |
 | [Отклик на банковскую кампанию](https://github.com/manaer6-alt/04_bank_marketing/blob/main/README_RU.md) | Модель без утечки данных и анализ рабочего порога | **F1 0.7119 · Recall 0.7732** |
 | [Прогноз оттока клиентов](https://github.com/manaer6-alt/02_telco_customer_churn/blob/main/README_RU.md) | Воспроизводимый пайплайн и выбор порога с учётом стоимости ошибок | **ROC-AUC 0.8413** |
 | [Прогноз диабета](https://github.com/manaer6-alt/06_diabetes_predictions) | Классификация с приоритетом полноты и переиспользуемыми модулями | **Recall 0.8704** |
